@@ -1,0 +1,13 @@
+# Auto-generated files
+.zcompdump*
+.bash_history
+.viminfo
+.zsh_history
+
+# OS files
+.DS_Store
+
+# Binary files
+*.so
+*.so.*
+*.pyc
