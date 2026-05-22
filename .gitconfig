@@ -1,0 +1,18 @@
+[safe]
+	directory = /mnt/files/Code/GoLab
+	directory = /mnt/files/Code/KubeCraft
+	directory = /mnt/files/Code/TerraCraft
+	directory = /mnt/files/Code/api-sample
+	directory = /mnt/files/Code/code-lab
+	directory = /mnt/files/Code/go-hard
+	directory = /mnt/files/Code/kube-stack
+	directory = /mnt/files/Code/kube-toolkit
+	directory = /mnt/files/Code/linux-stash
+	directory = /mnt/files/Code/linux-stuff
+	directory = /mnt/files/Code/stress-test
+	directory = /mnt/files/Code/try-out
+[user]
+	email = tiago.medeiros.lima@proton.me
+	name = Tiago Medeiros
+[init]
+	defaultBranch = main
